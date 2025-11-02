@@ -1,4 +1,4 @@
-# Desafio_CodeGirl_CloudFormation
+# Desafio_CodeGirl_AWS CloudFormation
 AWS CloudFormation — Resumo Code Girl
 
 ## O que é o CloudFormation?
